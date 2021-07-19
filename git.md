@@ -46,5 +46,6 @@ git tag xxx //设置标签（发行版本）
 git tag -a v_0.1.1 -m 'bug修复' //添加tag到暂存区
 git push origin v_0.1.0 //推送tag仓库
 git push origin V_0.1.1 //删除远程tag
+git tag -d xxx //删除本地标签
 ```
 
